@@ -1,0 +1,92 @@
+{
+    
+    "employment": [
+      {
+         "heading": "20XX-20XX - XXX1",
+         "text": "Lalalalala"
+      },
+      {
+         "heading": "20XX-20XX - XXX2",
+         "text": "Tralalalala"
+      }
+
+    ],
+    
+    "education": [
+         "20XX - 123- utbildning",
+         "20XX - 321-utbildning",
+         "20XX - 5698-utbildning"
+    ],
+
+    "internships": [
+        {
+            "companyName": "Företag1",
+            "text": "Blablabla"
+        },
+        {
+            "companyName": "Företag2",
+            "text": "Blablabla"
+        }
+    ],
+
+    "skills": [
+      {
+        "skill1": " Noob Web Development",
+        "keywords": [
+          "HTML",
+          "CSS",
+          "Javascript"
+        ]
+      }
+      
+    ],
+    "languages": [
+      {
+        "language": "Swedish",
+        "fluency": "Native speaker"
+      },
+      {
+        "language": "English",
+        "fluency": "Fluent"
+      }
+    ],
+    "interests": [
+      {
+        "name": "Gaming"
+      },
+      {
+        "name": "Drawing"
+      },
+      {
+        "name": "Writing"
+      }
+    ],
+    "references": [
+      {
+        "name": "Someone Someone",
+        "reference": "Something something, something!"
+      }
+    ],
+    "projects": [
+      {
+        "name": "Miss Direction",
+        "description": "A mapping engine that misguides you",
+        "highlights": [
+          "Won award at the 123-club.",
+          "Built by all women team of newbie programmers",
+          "Using modern technologies such as GoogleMaps, Chrome Extension and Javascript"
+        ],
+        "keywords": [
+          "GoogleMaps", "Chrome Extension", "Javascript"
+        ],
+        "startDate": "20XX-0X-24",
+        "endDate": "20XX-08-24",
+        "roles": [
+          "Team lead", "Designer"
+        ],
+        "entity": "Smoogle",
+        "type": "application"
+      }
+    ]
+    
+  }

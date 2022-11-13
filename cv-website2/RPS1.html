@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>RPS</title>
+    <link rel="stylesheet" href="RPS.css">
+</head>
+<body>
+    
+<header>
+    <a class="back-button" href="portfoliopage.html">&lt; Back</a>
+    <h1>Rock' Paper' Scissor<h1>
+</header>
+
+<div class="score-board">
+    <div id="user-label" class="badge">user</div>
+    <div id="computer-label" class="badge">comp</div>
+    <span id="user-score">0</span>:<span id="computer-score">0</span>
+</div>
+
+<div class="result">
+    <p>Paper covers rock. You win!</p>
+</div>
+
+<div class="choices">
+    <!-- Rock -->
+    <div class="choice" id="r"> 
+        <img src="images/rock.png" alt="rock" width="150px" height="120px"/>
+    </div>
+    <!-- paper -->
+    <div class="choice" id="p">
+        <img src="images/paper.png" alt="paper" width="150px" height="120px"/>
+    </div>
+    <!-- Scissor -->
+    <div class="choice" id="s">
+        <img src="images/scissor4.png" alt="scissor" width="150px" height="120px"/>
+    </div>
+</div>
+
+
+<p id="action-message"><strong>Make your move</strong></p>
+
+
+<script src="js/RPS.js"></script>
+</body>
+</html>
